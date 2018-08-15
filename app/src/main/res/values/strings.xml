@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="UserNameLabel">User</string>
+    <string name="PasswordLabel">Password</string>
+    <string name="LoginButtonLabel">Login</string>
+    <string name="InputNameLabel">Text</string>
+    <string name="addButtonLabel">Add</string>
+    <string name="deleteButtonLabel">Delete</string>
+</resources>
